@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+#TituloListaCompra{
+    color: #36077dc0;
+    margin-left: 8%;
+    font-size: 50px;
+}
+
+fieldset{
+    margin-left: 7%;
+    border: 0;
+}
+
+body{
+    font-size: 1em;
+}
